@@ -9,7 +9,6 @@ console.log("Temos " + salgados + " salgados disponíveis.");
 // Preço fixo do salgado
 const precoSalgado = 5;
 console.log("Cada salgado custa R$" + precoSalgado);
-Passo 2 – Atualizando valores
 // Atualizando o número de salgados e calculando quanto foi vendido
 salgados = salgados - 5;
 let totalVendido = 5 * precoSalgado;
